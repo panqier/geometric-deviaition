@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据和中间结果
+*.db
+*.pth
+*.pt
+masks/
+dense/
+sparse/
+images/
+train_images/
+train_masks/
+
+# IDE / OS
+.DS_Store
